@@ -1,4 +1,4 @@
-# Compton
+# Compton一个使你窗口透明化的工具，如果你当前使用的软件支持窗口透明的功能，那么compton可以帮你设置透明度，阴影效果，窗口切换效果等。对于我来说就用一个透明度设置的功能就可以了。
 
 [![Join the chat at https://gitter.im/chjj/compton](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chjj/compton?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
